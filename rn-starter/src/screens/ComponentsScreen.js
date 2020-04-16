@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text, StyleSheet, View } from 'react-native';
 
-const myName = 'BOGATAAAAAA';
+const myName = 'luuuubakaaa';
 const ComponentsScreen = () => (
   <View>
     <Text style={styles.textStyle}>Getting started with react native!</Text>
